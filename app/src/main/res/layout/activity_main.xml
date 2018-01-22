@@ -47,7 +47,8 @@ android:orientation="vertical">
     android:paddingBottom="1dp"
     android:paddingLeft="8dp"
     android:paddingRight="8dp"
-    android:paddingTop="0dp"/>
+    android:paddingTop="0dp"
+    android:autoLink="web"/>
 <TextView
     android:layout_width="wrap_content"
     android:layout_height="0dp"
@@ -56,6 +57,7 @@ android:orientation="vertical">
     android:paddingBottom="1dp"
     android:paddingLeft="8dp"
     android:paddingRight="8dp"
-    android:paddingTop="0dp"/>
+    android:paddingTop="0dp"
+    android:autoLink="phone"/>
 
 </LinearLayout>
